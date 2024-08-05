@@ -15,7 +15,7 @@ Technology Stack:
 - Database: MongoDB
 
 1. Getting Started:
-- Clone the repository: git clone https://github.com/your-username/food-delivery-system.git
+- Clone the repository: git clone https://github.com/DevindaWanasinghe/food-delivery_webProject-frontend.git
 
 2. Install dependencies for the frontend:
 - cd food-delivery-frontend
