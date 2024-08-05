@@ -21,13 +21,7 @@ Technology Stack:
 - cd food-delivery-frontend
 - npm install
 
-3. Install dependencies for the backend:
-- cd ../food-delivery-backend
-- npm install
-
-4. Run the development servers:
-- Start the backend server:
-  npm run server
+3. Run the development servers:
 - Start the frontend server:
   npm start
 
