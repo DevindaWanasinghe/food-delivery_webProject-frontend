@@ -23,7 +23,7 @@ Technology Stack:
 
 3. Run the development servers:
 - Start the frontend server:
-  npm start
+  npm run dev
 
 Contributing
 - Feel free to clone this repository and contribute by submitting a pull request. For major changes, please open an issue to discuss what you would like to change.
